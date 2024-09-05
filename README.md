@@ -1,0 +1,4 @@
+-Extract File from Rar
+-Locate EmployeeManagementSystem.sln
+-Open with Visual Studio 2019+
+-Run
